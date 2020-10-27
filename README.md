@@ -1,17 +1,20 @@
-# KaiZhiBoLou
+# JiBiFenGaoShou
 
-KaiZhiBoLou is an APP to buy professional live broadcast equipment and learn live broadcast strategies. It is dedicated to promoting professional, high-quality and high-quality live broadcast equipment, so that people can efficiently buy the best live broadcast equipment in their daily life and learn very practical live broadcast strategies and skills.
+JiBiFenGaoShou are dedicated to promoting the sport of weightlifting so that people can buy quality equipment in their daily lives, learn detailed weightlifting strategies, and easily record competitions.
 
-- Our app shows a full range of live broadcast equipment, including live broadcast sound card, live broadcast headset, live broadcast audio, live broadcast camera, light filling bracket and other live broadcast equipment. These categories of complete live broadcasting equipment can meet the user's selection and purchase.
+- Our app shows a full range of weight lifting equipment, including weight lifting protective belt, weight lifting training shoes, weight lifting anti-skid powder, weight lifting training equipment and other weight lifting equipment. These categories of complete weight lifting equipment can meet the user's selection and procurement.
 
-- Our APP has made a very detailed classification of these live broadcasting devices, which helps users to quickly find the live broadcasting devices they want to buy.
+- Our APP introduces each product in detail, enabling you to fully understand these products, find your favorite weight-lifting equipment, and facilitate you to purchase and place orders.
 
-- Our app also has the function of commodity collection, which enables you to collect your favorite live broadcast devices into the collection list, so that you can browse and place orders next time.
+- Our app also has the function of commodity collection. Your favorite weightlifting equipment can be collected in the collection list, which is convenient for you to browse and place orders.
 
-- our app also has the function of live broadcast tips and tips, you can learn the most professional live broadcast skills and tips, so that you can know more about this industry and become a big web celebrity.
+- There is also a page of weightlifting game guide in our app. We provide various techniques and guide analysis of weightlifting, so that you can know more about the sport of weightlifting and like it at the same time.
 
-Buy live streaming equipment and learn live streaming tips to become a web celebrity fan!
+- Our app also has a live score recording function. You can record the score and details of the live match, record every weightlifting match you like, and share the results of the match.
 
-If you have any questions, please contact us as follows : zunb78@163.com
+Defy gravity and ignite the charm of weightlifting!
+
+
+If you have any questions, please contact us as follows : leichengzhangzhavb@163.com
 
 
