@@ -1,16 +1,16 @@
-# JiBiFenXianFeng
+# PPTiYu
 
-JiBiFenXianFeng is an APP that easily records boxing fighting scores and conveniently buys boxing fighting equipment. It is dedicated to promoting boxing fighting, so that people can buy professional boxing equipment in their daily lives and easily record fighting records.
+PPTiYu is committed to promoting the most popular and professional sports venues, so that people can make efficient and high-quality reservation to their favorite sports venues in their daily life. At the same time, it can record every game in the stadium, recording the details and results of the game at that time.
 
-Our app has the function of recording the results of live matches. You can record the scores and details of live matches, record every boxing match you like, and share the results of matches.
+Our app has classified these sports venues in great detail, including boxing and fighting hall, archery club, fencing hall, horse-racing venue and other sports venues. These full range of sports competitions can meet the user's selection and appointment.
 
-Our app shows a full range of boxing fighting equipment, including fighting training equipment, boxing gloves, boxing fighting protective gear, boxing fighting clothing, boxing shoes and other boxing fighting equipment. These categories of complete boxing fighting equipment can meet the user's choice and purchase.
+Our app will give a detailed introduction of each sports arena, so that you can fully understand these venues and find your favorite sports arena, so that you can make an appointment and place an order.
 
-Our app has classified these boxing fighting equipment in great detail, which helps users to quickly find the boxing fighting equipment they want to buy.
+Our app also has the function of collecting sports venues. You can add your favorite sports venues to the list for your next browsing and ordering.
 
-Our APP introduces each product in detail, so that you can fully understand these products, find your favorite boxing equipment, so that you can purchase and place orders.
+Our app can also record every game in the stadium, record the game situation and the game record at that time, and also share the joy of victory to others.
 
-
-If you have any questions, please contact us as follows : wxe19890805@icloud.com
+Easy appointment, wonderful confrontation, hone the will
+If you have any questions, please contact us as follows : joeqkh@icloud.com
 
 
