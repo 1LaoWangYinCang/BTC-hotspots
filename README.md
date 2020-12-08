@@ -1,16 +1,15 @@
-# LeiSuTiYu
+# BTC hotspots
 
-LeiSuTiYu is committed to promoting the most popular and professional sports venues, so that people can make efficient and high-quality reservation to their favorite sports venues in their daily life. At the same time, it can record every game in the stadium, recording the details and results of the game at that time.
+BTC hotspots is a platform for digital currency enthusiasts to learn, exchange and share. It has the latest bitcoin news, real-time news, common sense of digital currency, important news in the circle, industry information and other information in the circle. There are all kinds of hot information, and you can get the market information of various digital currencies in real time.You can also Book Lectures on digital currency.
 
-Our app has classified these sports venues in great detail, including boxing and fighting hall, archery club, fencing hall, horse-racing venue and other sports venues. These full range of sports competitions can meet the user's selection and appointment.
+Our app provides you with real-time quotations of various digital currencies to better understand the market changes.
 
-Our app will give a detailed introduction of each sports arena, so that you can fully understand these venues and find your favorite sports arena, so that you can make an appointment and place an order.
+Our app can also express your opinions on digital currency in the community, exchange your ideas with others, and understand everyone's views on digital currency, so that you can go deeper into this circle more thoroughly.
 
-Our app also has the function of collecting sports venues. You can add your favorite sports venues to the list for your next browsing and ordering.
+Our app can also Book Lectures on digital currency, so that you can have an in-depth understanding of the prospects and future of digital currency, so that you can better understand the world of digital currency.
 
-Our app can also record every game in the stadium, record the game situation and the game record at that time, and also share the joy of victory to others.
+Hot information of digital currency is here
 
-Easy appointment, wonderful confrontation, hone the will
-If you have any questions, please contact us as follows : joeqkh@icloud.com
+If you have any questions, please contact us as follows : neseesmpqhk@hotmail.com
 
 
